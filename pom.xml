@@ -7,4 +7,8 @@
 	<groupId>clinic.programming</groupId>
 	<artifactId>maven-quick-test</artifactId>
 	<version>1.0</version>
+	<properties>
+		<maven.compiler.source>1.6</maven.compiler.source>
+		<maven.compiler.target>1.6</maven.compiler.target>
+	</properties>
 </project>
